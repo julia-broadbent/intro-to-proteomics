@@ -14,12 +14,6 @@ exercises: 3
 -   Identify enriched biological processes and pathways (GO and KEGG)
 :::
 
-::::::::::::::::::::::::::::::::::::: instructor
-
-During a live workshop, participants should work through the lesson content independently, with pauses for discussion after each component.
-
-::::::::::::::::::::::::::::::::::::::::::::::::
-
 
 
 Now that we have a list of differentially expressed (DE) proteins, we can explore how these proteins interact with each other and what biological functions or pathways they are involved in.

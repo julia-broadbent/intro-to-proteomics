@@ -17,12 +17,6 @@ exercises: 5
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::: instructor
-
-During a live workshop, participants should work through the lesson content independently, with pauses for discussion before and after the visualisation component.
-
-::::::::::::::::::::::::::::::::::::::::::::::::
-
 
 
 ## Differential Expression Analysis (DEA)
@@ -201,18 +195,6 @@ pheatmap(scaled_expr,
 How would you interpret this heatmap?
 
 :::::
-
-::::::::::::::::::::::::::::::::::::: instructor
-
-## Heatmap interpretation
-
-As expected, our samples cluster into their respective classes. 
-
-The three proteins with decreased expression in the aCD samples are clearly distinguishable from those with increased expression in the aCD samples.
-
-There are no apparent batch effects confounding these results.
-
-::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Volcano plot
 
